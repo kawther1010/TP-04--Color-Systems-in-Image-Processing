@@ -1,4 +1,4 @@
-# 🎨 TP 04: Color Systems in Image Processing  
+# 🎨 TP 04: Color Systems in Image Processing  BY Dr Guessoum
 
 ## 🎯 Objectives  
 1. Understand different color spaces (RGB, HSV, Lab, Grayscale).  
